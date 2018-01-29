@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6e20b4c1dcbdf479ebaf9c7d161e92a7
+timeCreated: 1445019788
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - monsterA: {fileID: 143900, guid: 568b789f7d42241b9a9d6ae8cee169f5, type: 2}
+  - monsterStart: {fileID: 8300000, guid: 2297512fd46944e44beca2c3555978da, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
